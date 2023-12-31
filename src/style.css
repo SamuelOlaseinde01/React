@@ -9,7 +9,7 @@ header {
 }
 
 .home {
-    width: fit-content;
+    width: 100%;
     position: relative;
     background-image: url("assets/images/home-hero.png");
     background-position: center;
@@ -302,6 +302,7 @@ footer {
     justify-items: center;
     gap: 34px;
     margin-top: 57px;
+    margin-bottom: 100px;
 }
 
 .van-tile a {
